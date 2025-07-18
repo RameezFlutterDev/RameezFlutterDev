@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Aangan** – Pakistan first ever game store  
+- 🔭 I’m currently working on **Vibstie** – Matching people based on vibes  
 - 🌱 I’m currently learning **Bloc state management and clean architecture**
 - 💬 Ask me about **Flutter, Firebase, UI/UX design, AI, AR**
 - 📫 Reach me at **rjrameez843@gmail.com**
