@@ -13,8 +13,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Vibstie** – Matching people based on vibes  
-- 🌱 I’m currently learning **Bloc state management and clean architecture**
-- 💬 Ask me about **Flutter, Firebase, UI/UX design, AI, AR**
+- 🌱 I’m currently learning **Bloc state management**
+- 💬 Ask me about **Flutter, Firebase, UI/UX design, AI, AR, Clean Architecture, REST APIs, Animations**
 - 📫 Reach me at **rjrameez843@gmail.com**
 - 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/raja-rameez-rauf-27510a226/)
 
