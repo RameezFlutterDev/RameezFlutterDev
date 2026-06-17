@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raja Rameez Rauf</h1>
-<h3 align="center">Mobile & Web App Developer | Flutter | Firebase | Machine Learning | UI/UX Figma | AI/AR Enthusiast</h3>
+<h3 align="center">Mobile & Web App Developer | Flutter | Firebase |  AI/AR Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
@@ -12,8 +12,6 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Vibstie** – Matching people based on vibes  
-- 🌱 I’m currently learning **Bloc state management**
 - 💬 Ask me about **Flutter, Firebase, UI/UX design, AI, AR, Clean Architecture, REST APIs, Animations**
 - 📫 Reach me at **rjrameez843@gmail.com**
 - 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/raja-rameez-rauf-27510a226/)
